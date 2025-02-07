@@ -19,7 +19,7 @@ I am a senior undergraduate student majoring in Computer Science and Technology 
 - **Major**: Computer Science and Technology  
 - **School**: School of Information Science and Engineering  
 
-### The Hong Kong University of Science and Technology (Research Internship) | *Sep. 2024 ~ Feb. 2025*  
+### HKUST (Internship) | *Sep. 2024 ~ Feb. 2025*  
 - **Research Focus**: AI for Chemistry  
 
 ---
