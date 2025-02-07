@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me  
 
-I am a senior undergraduate student majoring in Computer Science and Technology at Hunan University. I have collaborated with [Yizhen Lao](https://yizhenlao.github.io/) on 3D point cloud registration and adversarial attacks. I was fortunate to participate in a research internship at The Hong Kong University of Science and Technology (HKUST) under the supervision of [Prof. LUO Qiong](https://cse.hkust.edu.hk/~luo/). Currently, my research interests lie in AI for Chemistry.  
+I am a senior undergraduate student majoring in Computer Science and Technology at Hunan University. I have collaborated with [Prof. LAO Yizhen](https://yizhenlao.github.io/) on 3D point cloud registration and adversarial attacks. I was fortunate to participate in a research internship at The Hong Kong University of Science and Technology (HKUST) under the supervision of [Prof. LUO Qiong](https://cse.hkust.edu.hk/~luo/). Currently, my research interests lie in AI for Chemistry.  
 
 ---
 
