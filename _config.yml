@@ -27,11 +27,11 @@ author:
   name             : "   WANG Ziting"
   pronouns         : # example: "she/her"  
   bio              : # none
-  location         : "Earth"
+  location         : # "Earth"
   employer         : #"Red Brick University"
   uri              : # URL
    
-  email            : "1987515859@qq.com"
+  email            : #"1987515859@qq.com"
 
   # Academic websites
    
