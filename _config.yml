@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
    
-  avatar           : ./"微信图片_20240420143121.jpg"
+  avatar           : "./profile.jpg"
   name             : "Ziting Wang"
   pronouns         : # example: "she/her"  
   bio              : # none
