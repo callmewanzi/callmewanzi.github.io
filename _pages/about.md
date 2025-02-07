@@ -27,3 +27,8 @@ I am a senior undergraduate student majoring in Computer Science and Technology 
 ## Research Projects  
 
 Coming soon...
+
+## Contact Me
+Email: wzting@hnu.edu.cn
+
+*--feel free to ask me anything--*
